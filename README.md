@@ -41,7 +41,7 @@ Essential Concepts:
 • Pandas 
 • Matplotlib
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 Version Control (Git) 
 Git is a version control system that is crucial for managing code and collaboration 
@@ -58,8 +58,7 @@ Essential Concepts:
 • Temporary Commits: stash 
 • GitHub: fork, pull request, code review
 
-
-
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 Data Structures & Algorithms 
 Data structures and algorithms are essential for any machine learning engineer. 
@@ -104,6 +103,7 @@ Essential Concepts:
 • Palindrome 
 • Recursion
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 SQL 
 SQL is crucial for managing and querying large datasets in machine learning 
@@ -134,7 +134,7 @@ Essential Concepts:
 • Indexes  
 • Security and Permissions: Managing users and privileges
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
  Mathematics and Statistics 
 A strong foundation in mathematics and statistics is essential for machine 
@@ -164,6 +164,7 @@ Essential Concepts:
 • Confidence intervals 
 • Regression analysis
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 Data Handling and Processing  
 Effective data handling and processing are critical skills in machine learning. This 
@@ -189,8 +190,9 @@ Essential Concepts:
 • Data aggregation 
 • Handling different data formats (CSV, JSON, SQL)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
- Machine Learning Fundamentals 
+Machine Learning Fundamentals 
 Understanding the core principles of machine learning is crucial for developing 
 effective models. This involves learning about various algorithms, how to train 
 models, and how to evaluate their performance. Mastering these fundamentals 
@@ -221,6 +223,7 @@ support vector machines)
 • Techniques to mitigate overfitting (e.g., regularization, dropout) 
 • Model complexity management
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
  Advanced Machine Learning Concepts 
 Delving into advanced machine learning concepts allows you to tackle more 
@@ -258,7 +261,7 @@ Essential Concepts:
 • Image Segmentation: Semantic and instance segmentation
 • Generative Models: GANs in computer vision
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
  Model Deployment 
 Deploying machine learning models involves integrating them into a production 
